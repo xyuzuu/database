@@ -1,2 +1,2 @@
-# endak-tau
-yo endak tau ya jangan tanya saya
+# Database
+Random database aja sih ini:v

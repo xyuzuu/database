@@ -1,4 +1,5 @@
-[{
+{
+   {
       "question": "Palestina terletak di benua?",
       "selection": ["Asia", "Afrika", "Eropa", "Amerika"],
       "answer": "A",
@@ -666,4 +667,4 @@
       "answer": "D",
       "explanation": "Lama perjalanan = 5 Jam.\n\nBerhenti di jalan = 1 Jam 30 menit.\n\nTiba di Negara = 04.00 + 5 Jam + 1 Jam + 30 menit = 10.30."
    }
-]
+   }

@@ -1,0 +1,38 @@
+[
+   {
+      "name":"du rov",
+      "src":"./src/image/people/1.jpg"
+   },
+   {
+      "name":"mark zuckerberg",
+      "src":"./src/image/people/2.jpg"
+   },
+   {
+      "name":"elon musk",
+      "src":"./src/image/people/3.jpg"
+   },
+   {
+      "name":"linus trovald",
+      "src":"./src/image/people/4.jpg"
+   },
+   {
+      "name":"jack ma",
+      "src":"./src/image/people/5.jpg"
+   },
+   {
+      "name":"jeff bezos",
+      "src":"./src/image/people/6.jpg"
+   },
+   {
+      "name":"volodymyr zelensky",
+      "src":"./src/image/people/7.jpg"
+   },
+   {
+      "name":"tim cook",
+      "src":"./src/image/people/8.jpg"
+   },
+   {
+      "name":"rowan atkinson",
+      "src":"./src/image/people/9.jpg"
+   }
+]

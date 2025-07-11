@@ -1,31 +1,31 @@
 [
    {
       "name":"du rov",
-      "src":"./image/people/1.jpg"
+      "src":"https://raw.githubusercontent.com/Im-Dims/Database-doang-sih/refs/heads/main/src/image/people/1.jpg"
    },
    {
       "name":"mark zuckerberg",
-      "src":"./image/people/2.jpg"
+      "src":"https://raw.githubusercontent.com/Im-Dims/Database-doang-sih/refs/heads/main/src/image/people/2.jpg"
    },
    {
       "name":"elon musk",
-      "src":"./image/people/3.jpg"
+      "src":"https://raw.githubusercontent.com/Im-Dims/Database-doang-sih/refs/heads/main/src/image/people/3.jpg"
    },
    {
       "name":"linus trovald",
-      "src":"./image/people/4.jpg"
+      "src":"https://raw.githubusercontent.com/Im-Dims/Database-doang-sih/refs/heads/main/src/image/people/4.jpg"
    },
    {
       "name":"jack ma",
-      "src":"./image/people/5.jpg"
+      "src":"https://raw.githubusercontent.com/Im-Dims/Database-doang-sih/refs/heads/main/src/image/people/5.jpg"
    },
    {
       "name":"jeff bezos",
-      "src":"./image/people/6.jpg"
+      "src":"https://raw.githubusercontent.com/Im-Dims/Database-doang-sih/refs/heads/main/src/image/people/6.jpg"
    },
    {
       "name":"volodymyr zelensky",
-      "src":"./image/people/7.jpg"
+      "src":"https://raw.githubusercontent.com/Im-Dims/Database-doang-sih/refs/heads/main/src/image/people/7.jpg"
    },
    {
       "name":"tim cook",

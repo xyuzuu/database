@@ -29,10 +29,10 @@
    },
    {
       "name":"tim cook",
-      "src":"./image/people/8.jpg"
+      "src":"https://raw.githubusercontent.com/Im-Dims/Database-doang-sih/refs/heads/main/src/image/people/8.jpg"
    },
    {
       "name":"rowan atkinson",
-      "src":"./image/people/9.jpg"
+      "src":"https://raw.githubusercontent.com/Im-Dims/Database-doang-sih/refs/heads/main/src/image/people/9.jpg"
    }
 ]

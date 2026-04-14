@@ -1,0 +1,621 @@
+[{
+      "question": "Palestina terletak di benua?",
+      "selection": ["Asia", "Afrika", "Eropa", "Amerika"],
+      "answer": "A",
+      "explanation": "Palestina terletak di Asia Barat Daya, yang merupakan bagian dari benua Asia."
+   },
+   {
+      "question": "Ibu kota Palestina adalah?",
+      "selection": ["Yerusalem", "Ramallah", "Nablus", "Jericho"],
+      "answer": "A",
+      "explanation": "Yerusalem adalah ibu kota Palestina yang diakui oleh sebagian negara di dunia."
+   },
+   {
+      "question": "Palestina memiliki perbatasan dengan negara-negara berikut, kecuali?",
+      "selection": ["Israel", "Lebanon", "Suriah", "Mesir"],
+      "answer": "D",
+      "explanation": "Palestina berbatasan dengan Israel, Lebanon, Suriah, dan Yordania."
+   },
+   {
+      "question": "Populasi Palestina pada tahun 2023 diperkirakan mencapai?",
+      "selection": ["6 juta", "10 juta", "15 juta", "20 juta"],
+      "answer": "B",
+      "explanation": "Menurut PBB, populasi Palestina pada tahun 2023 diperkirakan mencapai 10 juta jiwa."
+   },
+   {
+      "question": "Palestina memiliki bahasa resmi?",
+      "selection": ["Arab", "Ibrani", "Inggris", "Turki"],
+      "answer": "A",
+      "explanation": "Bahasa Arab adalah bahasa resmi Palestina."
+   },
+   {
+      "question": "Palestina memiliki mata uang?",
+      "selection": ["Shekel Israel", "Yuan Tiongkok", "Euro", "Dolar Amerika Serikat"],
+      "answer": "A",
+      "explanation": "Palestina menggunakan mata uang Shekel Israel."
+   },
+   {
+      "question": "Palestina memiliki pasukan militer?",
+      "selection": ["Ya", "Tidak", "Tergantung situasi", "Tidak pasti"],
+      "answer": "A",
+      "explanation": "Palestina memiliki pasukan militer yang disebut Pasukan Keamanan Palestina."
+   },
+   {
+      "question": "Palestina memiliki angkatan udara?",
+      "selection": ["Ya", "Tidak", "Tergantung situasi", "Tidak pasti"],
+      "answer": "B",
+      "explanation": "Palestina tidak memiliki angkatan udara."
+   },
+   {
+      "question": "Palestina memiliki angkatan laut?",
+      "selection": ["Ya", "Tidak", "Tergantung situasi", "Tidak pasti"],
+      "answer": "B",
+      "explanation": "Palestina tidak memiliki angkatan laut."
+   },
+   {
+      "question": "Palestina memiliki hubungan diplomatik dengan negara-negara berikut, kecuali?",
+      "selection": ["Indonesia", "Turki", "Iran", "Arab Saudi"],
+      "answer": "D",
+      "explanation": "Palestina memiliki hubungan diplomatik dengan Indonesia, Turki, Iran, dan negara-negara Arab lainnya."
+   },
+   {
+      "question": "Palestina telah mengajukan permohonan keanggotaan Perserikatan Bangsa-Bangsa (PBB) sejak tahun?",
+      "selection": ["1947", "1967", "1974", "1988"],
+      "answer": "D",
+      "explanation": "Palestina mengajukan permohonan keanggotaan PBB sejak tahun 1988."
+   },
+   {
+      "question": "Palestina telah diakui sebagai negara oleh negara-negara berikut, kecuali?",
+      "selection": ["Indonesia", "Turki", "Iran", "Amerika Serikat"],
+      "answer": "D",
+      "explanation": "Palestina telah diakui sebagai negara oleh Indonesia, Turki, Iran, dan negara-negara Arab lainnya, tetapi tidak oleh Amerika Serikat."
+   }, {
+      "question": "Ibukota Israel adalah ...",
+      "selection": ["Yerusalem", "Tel Aviv", "Haifa", "Jaffa"],
+      "answer": "A",
+      "explanation": "Yerusalem adalah ibukota Israel yang diakui secara internasional, sedangkan Tel Aviv adalah ibukota de facto Israel."
+   },
+   {
+      "question": "Bahasa resmi Israel adalah ...",
+      "selection": ["Ibrani", "Arab", "Inggris", "Turki"],
+      "answer": "A",
+      "explanation": "Ibrani adalah bahasa resmi Israel yang digunakan oleh mayoritas penduduk Israel."
+   },
+   {
+      "question": "Israel merdeka pada tanggal ...",
+      "selection": ["14 Mei 1948", "15 Mei 1948", "16 Mei 1948", "17 Mei 1948"],
+      "answer": "A",
+      "explanation": "Israel merdeka pada tanggal 14 Mei 1948, bertepatan dengan hari raya Yahudi Yom Ha'atzmaut."
+   },
+   {
+      "question": "Israel berbatasan dengan negara-negara berikut, kecuali ...",
+      "selection": ["Lebanon", "Suriah", "Yordania", "Palestina"],
+      "answer": "D",
+      "explanation": "Palestina adalah wilayah yang diperebutkan antara Israel dan Palestina."
+   },
+   {
+      "question": "Mayoritas penduduk Israel adalah ...",
+      "selection": ["Yahudi", "Arab", "Kristen", "Budha"],
+      "answer": "A",
+      "explanation": "Mayoritas penduduk Israel adalah orang Yahudi, dengan populasi Arab sebagai minoritas."
+   },
+   {
+      "question": "Israel adalah negara demokrasi ...",
+      "selection": ["Parlementer", "Presidensial", "Oligarki", "Monarki"],
+      "answer": "A",
+      "explanation": "Israel adalah negara demokrasi parlementer, dengan sistem pemerintahan yang dipimpin oleh Perdana Menteri."
+   },
+   {
+      "question": "Israel adalah negara anggota dari organisasi internasional berikut, kecuali ...",
+      "selection": ["PBB", "UNESCO", "OPEC", "Liga Arab"],
+      "answer": "D",
+      "explanation": "Israel tidak diterima sebagai anggota Liga Arab karena konflik Israel-Palestina."
+   },
+   {
+      "question": "Israel memiliki kekuatan militer yang kuat karena ...",
+      "selection": ["Ancamannya dari negara-negara tetangga", "Perang Yom Kippur", "Perang Arab-Israel", "Perang Lebanon"],
+      "answer": "A",
+      "explanation": "Israel memiliki kekuatan militer yang kuat karena ancamannya dari negara-negara tetangga, seperti Lebanon dan Suriah."
+   },
+   {
+      "question": "Israel memiliki hubungan yang buruk dengan negara-negara berikut, kecuali ...",
+      "selection": ["Palestina", "Suriah", "Iran", "Amerika Serikat"],
+      "answer": "D",
+      "explanation": "Amerika Serikat adalah sekutu utama Israel."
+   },
+   {
+      "question": "Israel adalah negara yang maju dengan perekonomian yang kuat karena ...",
+      "selection": ["Teknologi tinggi", "Otomotif", "Pelancongan", "Pertanian"],
+      "answer": "A",
+      "explanation": "Israel adalah negara maju dengan perekonomian yang kuat karena teknologi tinggi."
+   },
+   {
+      "question": "Israel adalah negara yang multikultural dengan berbagai agama dan budaya, termasuk ...",
+      "selection": ["Yahudi", "Kristen", "Islam", "Hindu"],
+      "answer": "D",
+      "explanation": "Israel adalah negara yang multikultural dengan berbagai agama dan budaya, termasuk Hindu."
+   },
+   {
+      "question": "Israel adalah negara yang penting secara strategis karena ...",
+      "selection": ["Lokasinya di Timur Tengah", "Persediaan airnya", "Lapangan minyaknya", "Sumber daya alamnya"],
+      "answer": "A",
+      "explanation": "Israel adalah negara yang penting secara strategis karena lokasinya di Timur Tengah."
+   }, {
+      "question": "Penyebab khusus yang memicu terjadinya Perang Dunia II adalah ...",
+      "selection": ["Persaingan memperebutkan wilayah Bal-kan", "Persaingan perdagangan antarnegara Eropa", "Terbunuhnya putra mahkota Austria", "Perlombaan senjata antarnegara maju", "Pembentukan blok-blok pertahanan"],
+      "answer": "C",
+      "explanation": "Pangeran Franz Ferdinand, putra mahkota Austria-Hongaria, dibunuh oleh kelompok teroris Serbia pada 28 Juni 1914. Peristiwa ini memicu perang antara Austria-Hongaria dan Serbia, yang kemudian melibatkan negara-negara lain di Eropa dan dunia."
+   },
+   {
+      "question": "Latar belakang meletusnya Perang Dunia II adalah ...",
+      "selection": ["Persaingan di antara negara Eropa untuk memperebutkan daerah jajahan", "Kerjasama ekonomi antarnegara Eropa", "Kekurangan sumber daya alam di Eropa", "Semakin sempitnya daerah jajahan di Asia dan Afrika", "Kebangkitan fasisme dan komunisme di Eropa"],
+      "answer": "A",
+      "explanation": "Persaingan di antara negara Eropa untuk memperebutkan daerah jajahan, yaitu wilayah Bal-kan, merupakan salah satu penyebab utama terjadinya Perang Dunia II. Selain itu, kebangkitan fasisme dan komunisme di Eropa juga menjadi faktor yang berkontribusi terhadap terjadinya perang."
+   },
+   {
+      "question": "Di kota manakah pangeran Franz Ferdinand dibunuh?",
+      "selection": ["Sarajevo", "Belgrade", "Zagreb", "Vienna"],
+      "answer": "A",
+      "explanation": "Pangeran Franz Ferdinand dibunuh di Sarajevo, ibu kota Bosnia-Herzegovina, pada 28 Juni 1914."
+   },
+   {
+      "question": "Pada awal Perang Dunia II, Bosnia-Herzegovina merupakan bagian dari ...",
+      "selection": ["Austria-Hongaria", "Yugoslavia", "Italia", "Jerman"],
+      "answer": "A",
+      "explanation": "Pada awal Perang Dunia II, Bosnia-Herzegovina merupakan bagian dari Austria-Hongaria. Setelah perang, Bosnia-Herzegovina menjadi bagian dari Yugoslavia."
+   },
+   {
+      "question": "Negara-negara yang tergabung dalam Blok Sentral pada Perang Dunia II adalah ...",
+      "selection": ["Jerman, Italia, Jepang, Uni Soviet"],
+      "answer": "A",
+      "explanation": "Negara-negara yang tergabung dalam Blok Sentral pada Perang Dunia II adalah Jerman, Italia, dan Jepang. Ketiga negara ini bersekutu untuk melawan Blok Sekutu."
+   },
+   {
+      "question": "Negara-negara yang tergabung dalam Blok Sekutu pada Perang Dunia II adalah ...",
+      "selection": ["Inggris, Perancis, Amerika Serikat, Uni Soviet"],
+      "answer": "D",
+      "explanation": "Negara-negara yang tergabung dalam Blok Sekutu pada Perang Dunia II adalah Inggris, Perancis, Amerika Serikat, dan Uni Soviet. Keempat negara ini bersekutu untuk melawan Blok Sentral."
+   },
+   {
+      "question": "Pada tanggal berapa Jepang menyerang Pearl Harbor?",
+      "selection": ["7 Desember 1941", "8 Desember 1941", "9 Desember 1941", "10 Desember 1941"],
+      "answer": "A",
+      "explanation": "Jepang menyerang Pearl Harbor, pangkalan angkatan laut Amerika Serikat di Hawaii, pada tanggal 7 Desember 1941."
+   },
+   {
+      "question": "Pada tanggal berapa Uni Soviet menyerang Jerman?",
+      "selection": ["22 Juni 1941", "23 Juni 1941", "24 Juni 1941", "25 Juni 1941"],
+      "answer": "A",
+      "explanation": "Uni Soviet menyerang Jerman pada tanggal 22 Juni 1941, yang merupakan awal dari Operasi Barbarossa. Operasi ini merupakan serangan besar-besaran Uni Soviet terhadap Jerman."
+   }, {
+      "question": "Pada tanggal berapa Hari Kemerdekaan Indonesia diperingati?",
+      "selection": ["17 Agustus", "1 Maret", "1 Juni", "1 Desember"],
+      "answer": "A",
+      "explanation": "Hari Kemerdekaan Indonesia diperingati setiap tanggal 17 Agustus."
+   },
+   {
+      "question": "Ibukota negara Indonesia adalah?",
+      "selection": ["Jakarta", "Yogyakarta", "Surabaya", "Bandung"],
+      "answer": "A",
+      "explanation": "Ibukota negara Indonesia adalah Jakarta."
+   },
+   {
+      "question": "Puncak tertinggi di Indonesia adalah?",
+      "selection": ["Puncak Jaya", "Puncak Mandala", "Puncak Cartenz", "Puncak Kerinci"],
+      "answer": "A",
+      "explanation": "Puncak tertinggi di Indonesia adalah Puncak Jaya dengan ketinggian 4.884 meter di atas permukaan laut."
+   },
+   {
+      "question": "Benua terluas di dunia adalah?",
+      "selection": ["Asia", "Afrika", "Amerika", "Antartika"],
+      "answer": "A",
+      "explanation": "Benua terluas di dunia adalah Asia dengan luas 44.579.000 km²."
+   },
+   {
+      "question": "Negara terpadat di dunia adalah?",
+      "selection": ["China", "India", "Jepang", "Indonesia"],
+      "answer": "A",
+      "explanation": "Negara terpadat di dunia adalah China dengan populasi mencapai 1.453.688.107 jiwa."
+   },
+   {
+      "question": "Ibukota negara Jepang adalah?",
+      "selection": ["Tokyo", "Osaka", "Kyoto", "Nagoya"],
+      "answer": "A",
+      "explanation": "Ibukota negara Jepang adalah Tokyo."
+   },
+   {
+      "question": "Mata uang resmi Amerika Serikat adalah?",
+      "selection": ["Dolar Amerika", "Euro", "Yen Jepang", "Poundsterling"],
+      "answer": "A",
+      "explanation": "Mata uang resmi Amerika Serikat adalah Dolar Amerika."
+   },
+   {
+      "question": "Benua terdingin di dunia adalah?",
+      "selection": ["Antartika", "Arktik", "Eropa", "Amerika Utara"],
+      "answer": "A",
+      "explanation": "Benua terdingin di dunia adalah Antartika dengan suhu rata-rata tahunan mencapai -57,2 derajat Celcius."
+   },
+   {
+      "question": "Ibukota negara Australia adalah?",
+      "selection": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "answer": "D",
+      "explanation": "Ibukota negara Australia adalah Canberra."
+   },
+   {
+      "question": "Pemimpin tertinggi negara Indonesia adalah?",
+      "selection": ["Presiden", "DPR", "Mahkamah Agung", "KPK"],
+      "answer": "A",
+      "explanation": "Pemimpin tertinggi negara Indonesia adalah Presiden."
+   },
+   {
+      "question": "Persatuan Bangsa-Bangsa (PBB) didirikan pada tahun?",
+      "selection": ["1945", "1946", "1947", "1948"],
+      "answer": "A",
+      "explanation": "PBB didirikan pada tanggal 24 Oktober 1945."
+   },
+   {
+      "question": "Panjang lintasan garis khatulistiwa adalah?",
+      "selection": ["40.075 km", "40.070 km", "40.072 km", "40.076 km"],
+      "answer": "C",
+      "explanation": "Panjang lintasan garis khatulistiwa adalah 40.072 kilometer."
+   }, {
+      "question": "Hasil dari 5 + 6 = ?",
+      "selection": ["7", "8", "9", "10"],
+      "answer": "A",
+      "explanation": "5 + 6 = 11"
+   },
+   {
+      "question": "Hasil dari 8 - 3 = ?",
+      "selection": ["5", "6", "7", "8"],
+      "answer": "B",
+      "explanation": "8 - 3 = 5"
+   },
+   {
+      "question": "Hasil dari 12 x 4 = ?",
+      "selection": ["48", "56", "64", "72"],
+      "answer": "A",
+      "explanation": "12 x 4 = 48"
+   },
+   {
+      "question": "Hasil dari 20 / 5 = ?",
+      "selection": ["4", "5", "6", "7"],
+      "answer": "A",
+      "explanation": "20 / 5 = 4"
+   },
+   {
+      "question": "Hasil dari 12 : 4 = ?",
+      "selection": ["3", "4", "5", "6"],
+      "answer": "A",
+      "explanation": "12 : 4 = 3"
+   },
+   {
+      "question": "Hasil dari 12 + 12 + 12 = ?",
+      "selection": ["36", "48", "56", "64"],
+      "answer": "A",
+      "explanation": "12 + 12 + 12 = 36"
+   },
+   {
+      "question": "Hasil dari 20 - 10 - 10 = ?",
+      "selection": ["0", "10", "20", "30"],
+      "answer": "A",
+      "explanation": "20 - 10 - 10 = 0"
+   },
+   {
+      "question": "Hasil dari 20 x 20 = ?",
+      "selection": ["400", "500", "600", "700"],
+      "answer": "A",
+      "explanation": "20 x 20 = 400"
+   },
+   {
+      "question": "Hasil dari 20 / 2 = ?",
+      "selection": ["10", "12", "14", "16"],
+      "answer": "A",
+      "explanation": "20 / 2 = 10"
+   },
+   {
+      "question": "Hasil dari 20 : 2 = ?",
+      "selection": ["10", "12", "14", "16"],
+      "answer": "A",
+      "explanation": "20 : 2 = 10"
+   },
+   {
+      "question": "Hasil dari 12 + 20 = ?",
+      "selection": ["32", "42", "52", "62"],
+      "answer": "A",
+      "explanation": "12 + 20 = 32"
+   },
+   {
+      "question": "Hasil dari 20 - 12 = ?",
+      "selection": ["8", "10", "12", "14"],
+      "answer": "A",
+      "explanation": "20 - 12 = 8"
+   },
+   {
+      "question": "Hasil dari 20 x 12 = ?",
+      "selection": ["240", "250", "260", "270"],
+      "answer": "A",
+      "explanation": "20 x 12 = 240"
+   }, {
+      "question": "Apakah yang dimaksud dengan atom?",
+      "selection": [
+         "Atom adalah unit dasar materi yang tidak dapat dibagi lagi secara kimiawi.",
+         "Atom adalah unit dasar materi yang dapat dibagi lagi secara kimiawi.",
+         "Atom adalah unit dasar materi yang dapat dibagi lagi secara fisika.",
+         "Atom adalah unit dasar materi yang tidak dapat dibagi lagi secara fisika maupun kimiawi."
+      ],
+      "answer": "A",
+      "explanation": "Atom adalah unit dasar materi yang tidak dapat dibagi lagi secara kimiawi."
+   },
+   {
+      "question": "Berapakah jumlah elektron, proton, dan neutron dalam atom hidrogen?",
+      "selection": [
+         "Elektron: 1, Proton: 1, Neutron: 0",
+         "Elektron: 2, Proton: 2, Neutron: 0",
+         "Elektron: 0, Proton: 0, Neutron: 1",
+         "Elektron: 1, Proton: 0, Neutron: 1"
+      ],
+      "answer": "A",
+      "explanation": "Atom hidrogen memiliki 1 proton, 1 elektron, dan tidak memiliki neutron."
+   },
+   {
+      "question": "Tipe data apa yang digunakan untuk menyimpan teks di JavaScript?",
+      "selection": ["string", "number", "boolean", "array"],
+      "answer": "A",
+      "explanation": "Tipe data string digunakan untuk menyimpan teks di JavaScript."
+   },
+   {
+      "question": "Berikut ini adalah tipe-tipe data yang dikenal JavaScript, kecuali:",
+      "selection": ["string", "number", "boolean", "character"],
+      "answer": "C",
+      "explanation": "Tipe data character tidak dikenal di JavaScript."
+   },
+   {
+      "question": "Berikut ini adalah struktur perulangan yang ada di bahasa JavaScript, kecuali:",
+      "selection": ["for", "for/in", "switch", "while"],
+      "answer": "C",
+      "explanation": "Struktur perulangan switch tidak dikenal di JavaScript."
+   },
+   {
+      "question": "Fungsi getElementById di JavaScript akan:",
+      "selection": ["mengutip semua elemen HTML didalam dokumen HTML tersebut", "merujuk elemen HTML dengan identitas sesuai dengan nilai argumen fungsi", "membuat sebuah elemen HTML dengan nama sesuai argumen fungsi", "membuat suatu elemen HTML dengan atribut ID bernilai sesuai argumen fungsi"],
+      "answer": "B",
+      "explanation": "Fungsi getElementById digunakan untuk merujuk elemen HTML dengan identitas sesuai dengan nilai argumen fungsi."
+   },
+   {
+      "question": "Untuk merujuk kepada semua elemen paragrap didalam suatu dokumen HTML, fungsi javascript yang tepat digunakan adalah:",
+      "selection": ["getElementById", "getElementByTagName", "getElementsByTagName", "getElementsByClassName"],
+      "answer": "C",
+      "explanation": "Fungsi getElementsByTagName digunakan untuk merujuk kepada semua elemen dengan tag tertentu."
+   },
+   {
+      "question": "Kode JavaScript untuk mengatur warna forecolor yang benar dibawah ini adalah:",
+      "selection": ["document.getElementById('teks').style.color='blue';", "document.getElementById('teks').css.color='blue';", "document.getElementById('teks').style.color=blue;", "document.getElementById('teks').css.color=blue;"],
+      "answer": "A",
+      "explanation": "Kode document.getElementById('teks').style.color='blue'; adalah kode yang benar untuk mengatur warna forecolor."
+   },
+   {
+      "question": "JavaScript mengenal jenis-jenis node dibawah ini, kecuali:",
+      "selection": ["elemen", "text", "atribut", "class"],
+      "answer": "D",
+      "explanation": "Tipe data class tidak dikenal sebagai jenis node di JavaScript."
+   },
+   {
+      "question": "Untuk menggunakan fungsi tersebut penggalan kode yang benar dibawah ini adalah:",
+      "selection": ["terima=hitung(); document.getElementById('demo').innerHTML=terima;", "terima=hitung(); document.getElementById('demo').nodeText=terima;", "terima=hitung(); document.getElementById('demo').nodeElement=terima;", "terima=hitung(); document.getElementById('demo').nodeValue=terima;"],
+      "answer": "A",
+      "explanation": "Penggalan kode terima=hitung(); document.getElementById('demo').innerHTML=terima; adalah penggalan kode yang benar untuk menggunakan fungsi hitung."
+   }, {
+      "question": "Perintah SQL untuk membuat database adalah?",
+      "selection": ["CREATE DATABASE", "CREATE TABLE", "CREATE DB", "CREATE DATABASE TABLE"],
+      "answer": "A",
+      "explanation": "Perintah CREATE DATABASE digunakan untuk membuat database baru."
+   },
+   {
+      "question": "Perintah SQL untuk membuat tabel baru di dalam sebuah database adalah?",
+      "selection": ["CREATE DATABASE", "CREATE TABLE", "CREATE DB", "CREATE DATABASE TABLE"],
+      "answer": "B",
+      "explanation": "Perintah CREATE TABLE digunakan untuk membuat tabel baru di dalam database."
+   },
+   {
+      "question": "Perintah SQL untuk menampilkan seluruh data dari tabel adalah?",
+      "selection": ["SELECT * FROM", "SELECT FROM", "SHOW * FROM", "SHOW FROM"],
+      "answer": "A",
+      "explanation": "Perintah SELECT * FROM digunakan untuk menampilkan seluruh data dari tabel."
+   },
+   {
+      "question": "Perintah SQL untuk menampilkan data dari tabel berdasarkan kriteria tertentu adalah?",
+      "selection": ["SELECT * FROM", "SELECT FROM", "WHERE", "AND"],
+      "answer": "B",
+      "explanation": "Perintah SELECT FROM digunakan untuk menampilkan data dari tabel, sedangkan WHERE digunakan untuk menentukan kriteria tertentu."
+   },
+   {
+      "question": "Perintah SQL untuk menampilkan data dari tabel berdasarkan beberapa kriteria sekaligus adalah?",
+      "selection": ["SELECT * FROM", "SELECT FROM", "AND", "OR"],
+      "answer": "C",
+      "explanation": "Perintah AND digunakan untuk menggabungkan dua atau lebih kriteria, sedangkan OR digunakan untuk menentukan kriteria alternatif."
+   },
+   {
+      "question": "Perintah SQL untuk mengurutkan hasil query adalah?",
+      "selection": ["ORDER BY", "SORT BY", "ORDER", "SORT"],
+      "answer": "A",
+      "explanation": "Perintah ORDER BY digunakan untuk mengurutkan hasil query."
+   },
+   {
+      "question": "Perintah SQL untuk menghitung jumlah data dari tabel adalah?",
+      "selection": ["COUNT(*)", "LEN (*)", "DISTINCT (*)", "ROW(*)"],
+      "answer": "A",
+      "explanation": "Perintah COUNT(*) digunakan untuk menghitung jumlah data dari tabel."
+   },
+   {
+      "question": "Perintah SQL untuk menghapus data dari tabel adalah?",
+      "selection": ["DELETE FROM", "REMOVE FROM", "DROP FROM", "DELETE"],
+      "answer": "A",
+      "explanation": "Perintah DELETE FROM digunakan untuk menghapus data dari tabel."
+   },
+   {
+      "question": "Perintah SQL untuk mengubah data dari tabel adalah?",
+      "selection": ["UPDATE", "MODIFY", "CHANGE", "ALTER"],
+      "answer": "A",
+      "explanation": "Perintah UPDATE digunakan untuk mengubah data dari tabel."
+   },
+   {
+      "question": "Perintah SQL untuk menambahkan data baru ke tabel adalah?",
+      "selection": ["INSERT INTO", "INSERT", "ADD", "APPEND"],
+      "answer": "A",
+      "explanation": "Perintah INSERT INTO digunakan untuk menambahkan data baru ke tabel."
+   },
+   {
+      "question": "Perintah SQL untuk membuat hubungan antar tabel adalah?",
+      "selection": ["JOIN", "INNER JOIN", "LAST JOIN", "INNER JOINED"],
+      "answer": "A",
+      "explanation": "Perintah JOIN digunakan untuk membuat hubungan antar tabel."
+   },
+   {
+      "question": "Perintah SQL untuk membatasi jumlah data yang ditampilkan adalah?",
+      "selection": ["LIMIT", "RANGE", "OFFSET", "LIMIT RANGE"],
+      "answer": "A",
+      "explanation": "Perintah LIMIT digunakan untuk membatasi jumlah data yang ditampilkan."
+   },
+   {
+      "question": "Perintah SQL untuk menampilkan data dari tabel berdasarkan tanggal tertentu adalah?",
+      "selection": ["DATE", "DATETIME", "WHERE", "AND"],
+      "answer": "B",
+      "explanation": "Perintah DATETIME digunakan untuk menampilkan data dari tabel berdasarkan tanggal tertentu."
+   }, {
+      "question": "DBMS adalah singkatan dari?",
+      "selection": ["Data Manipulation System", "Database Manipulation System", "Data Management System", "Database Management System"],
+      "answer": "D",
+      "explanation": "DBMS adalah singkatan dari Database Management System."
+   },
+   {
+      "question": "Salah satu tujuan atau manfaat penggunaan DBMS adalah?",
+      "selection": ["Akses data lebih mudah dan cepat", "Dapat menangani data-data dalam jumlah besar", "Membuat pekerjaan menjadi kompleks", "Menghilangkan hasil duplikasi maupun inkonsistensi data"],
+      "answer": "A",
+      "explanation": "Akses data lebih mudah dan cepat adalah salah satu tujuan atau manfaat penggunaan DBMS."
+   },
+   {
+      "question": "Berikut ini contoh DBMS, Kecuali?",
+      "selection": ["MySQL", "PostgreSQL", "Oracle", "Excel"],
+      "answer": "D",
+      "explanation": "Excel adalah spreadsheet, bukan DBMS."
+   },
+   {
+      "question": "Kepanjangan dari SQL adalah?",
+      "selection": ["Structured Question Language", "Strong Question Language", "Structured Query Language", "Strong Query Language"],
+      "answer": "C",
+      "explanation": "SQL adalah singkatan dari Structured Query Language."
+   },
+   {
+      "question": "Perintah untuk membuat database adalah?",
+      "selection": ["CREATE DATABASE", "CREATE TABLE", "CREATE DB", "CREATE DATABASE TABLE"],
+      "answer": "A",
+      "explanation": "Perintah untuk membuat database adalah CREATE DATABASE."
+   },
+   {
+      "question": "Perintah untuk membuat tabel baru di dalam sebuah database adalah?",
+      "selection": ["CREATE DATABASE", "CREATE TABLE", "CREATE DB", "CREATE TAB"],
+      "answer": "B",
+      "explanation": "Perintah untuk membuat tabel baru di dalam sebuah database adalah CREATE TABLE."
+   },
+   {
+      "question": "Berikut perintah SQL untuk menampilkan kolom nama pada tabel siswa yang nilainya diakhiri dengan kata 'Adam'?",
+      "selection": ["SELECT * FROM siswa WHERE nama LIKE '%Adam'", "SELECT nama FROM siswa WHERE nama LIKE 'Adam%'", "SELECT nama FROM siswa WHERE nama LIKE '*Adam'", "SELECT nama FROM siswa WHERE nama LIKE 'Adam'"],
+      "answer": "A",
+      "explanation": "Perintah SQL untuk menampilkan kolom nama pada tabel siswa yang nilainya diakhiri dengan kata 'Adam' adalah SELECT * FROM siswa WHERE nama LIKE '%Adam'."
+   },
+   {
+      "question": "Kata Kunci untuk mengurutkan hasil query adalah?",
+      "selection": ["ORDER BY", "SORT BY", "ORDER", "SORT"],
+      "answer": "A",
+      "explanation": "Kata Kunci untuk mengurutkan hasil query adalah ORDER BY."
+   },
+   {
+      "question": "Perintah SQL untuk menghapus data bernama 'Dimas' di dalam tabel siswa adalah?",
+      "selection": ["DELETE nama='Rofig' FROM siswa", "DELETE FROM siswa WHERE nama='Rofig'", "REMOVE nama='Rofig' FROM siswa", "REMOVE FROM siswa nama='Rofig'"],
+      "answer": "B",
+      "explanation": "Perintah SQL untuk menghapus data bernama 'Dimas' di dalam tabel siswa adalah DELETE FROM siswa WHERE nama='Rofig'."
+   },
+   {
+      "question": "Perintah SQL untuk menghitung seluruh record di dalam tabel di database adalah?",
+      "selection": ["LEN ()", "COUNT()", "DISTINCT ()", "ROW()"],
+      "answer": "B",
+      "explanation": "Perintah SQL untuk menghitung seluruh record di dalam tabel di database adalah COUNT(*)."
+   },
+   {
+      "question": "Untuk membuat relasi atau hubungan antar tabel menggunakan perintah?",
+      "selection": ["LAST JOIN", "INNER JOIN", "JOINED", "INSIDE JOIN"],
+      "answer": "C",
+      "explanation": "Untuk membuat relasi atau hubungan antar tabel menggunakan perintah JOIN."
+   }, {
+      "question": "Node.js adalah?",
+      "selection": ["Kerangka kerja web", "Kerangka kerja aplikasi", "Kerangka kerja server", "Kerangka kerja umum"],
+      "answer": "C",
+      "explanation": "Node.js adalah kerangka kerja server yang dibangun di atas JavaScript. Node.js dapat digunakan untuk mengembangkan berbagai aplikasi web, aplikasi desktop, dan aplikasi seluler."
+   },
+   {
+      "question": "Apakah Node.js menggunakan event loop?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Ya, Node.js menggunakan event loop untuk menangani permintaan dan respons HTTP. Event loop memungkinkan Node.js untuk menangani banyak permintaan HTTP secara bersamaan."
+   },
+   {
+      "question": "Apakah Node.js menggunakan single-threaded?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Tidak",
+      "explanation": "Node.js menggunakan single-threaded untuk event loop, tetapi menggunakan multi-threaded untuk menangani permintaan HTTP. Node.js menggunakan teknik yang disebut thread pooling untuk menangani banyak permintaan HTTP secara bersamaan."
+   },
+   {
+      "question": "Apakah Node.js menggunakan V8?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Node.js menggunakan V8, mesin JavaScript yang dikembangkan oleh Google. V8 memungkinkan Node.js untuk menjalankan kode JavaScript dengan cepat dan efisien."
+   },
+   {
+      "question": "Apakah Node.js menggunakan NPM?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Node.js menggunakan NPM, manajer paket yang digunakan untuk mengelola dependensi Node.js. NPM menyediakan akses ke perpustakaan dan modul Node.js yang telah dibuat oleh komunitas."
+   },
+   {
+      "question": "Apakah Node.js menggunakan Express?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Express adalah kerangka kerja web yang populer untuk Node.js. Express menyediakan fitur-fitur seperti routing, middleware, dan template engine."
+   },
+   {
+      "question": "Apakah Node.js menggunakan Sequelize?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Sequelize adalah perpustakaan ORM yang populer untuk Node.js. Sequelize menyediakan fitur-fitur seperti akses ke database relasional, ORM, dan query builder."
+   },
+   {
+      "question": "Apakah Node.js menggunakan Socket.io?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Socket.io adalah perpustakaan real-time yang populer untuk Node.js. Socket.io menyediakan fitur-fitur seperti komunikasi real-time, streaming data, dan permainan online."
+   },
+   {
+      "question": "Apakah Node.js menggunakan Winston?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Winston adalah perpustakaan logging yang populer untuk Node.js. Winston menyediakan fitur-fitur seperti logging ke file, logging ke console, dan logging ke database."
+   },
+   {
+      "question": "Apakah Node.js menggunakan Mocha?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Mocha adalah framework testing yang populer untuk Node.js. Mocha menyediakan fitur-fitur seperti testing asynchronous, testing unit, dan testing integration."
+   },
+   {
+      "question": "Apakah Node.js menggunakan Jest?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Jest adalah framework testing yang populer untuk Node.js. Jest menyediakan fitur-fitur seperti testing asynchronous, testing unit, dan testing integration."
+   },
+   {
+      "question": "Apakah Node.js menggunakan Puppeteer?",
+      "selection": ["Ya", "Tidak"],
+      "answer": "Ya",
+      "explanation": "Puppeteer adalah perpustakaan automation browser yang populer untuk Node.js. Puppeteer menyediakan fitur-fitur seperti controlling browser, interacting with web pages, dan taking screenshots."
+   }
+]

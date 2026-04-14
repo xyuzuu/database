@@ -1,0 +1,5 @@
+# Ignore everything in this directory
+
+# Dependency directories
+.git/
+node_modules/
